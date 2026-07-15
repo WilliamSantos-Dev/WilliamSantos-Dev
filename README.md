@@ -14,13 +14,41 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WilliamSantos-Dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamSantos-Dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamSantos-Dev&theme=tokyonight"
+    alt="Resumo do perfil de William Santos"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliamSantos-Dev&theme=tokyonight"
+    alt="Estatísticas de William Santos"
+  />
+
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WilliamSantos-Dev&theme=tokyonight&utcOffset=-3"
+ alt="Horários produtivos de William Santos"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliamSantos-Dev&theme=tokyonight"
+    alt="Repositórios por linguagem"
+  />
+
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WilliamSantos-Dev&theme=tokyonight"
+ alt="Linguagens com mais commits"
+/>
+
+</p>
+
 
 ---
 
@@ -35,19 +63,8 @@
 ## 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilliamSantos-Dev&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WilliamSantos-Dev&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WilliamSantos-Dev&color=blueviolet&style=for-the-badge"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=WilliamSantos-Dev&theme=tokyo-night&hide_border=true&area=true"
+    alt="Gráfico de contribuições de William Santos"
+  />
 </p>
