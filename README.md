@@ -18,13 +18,3 @@
   <img src="https://streak-stats.demolab.com?user=WilliamSantos-Dev&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📈 Gráfico de Contribuições
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=WilliamSantos-Dev&theme=tokyo-night&hide_border=true&area=true"
-    alt="Gráfico de contribuições de William Santos"
-  />
-</p>
