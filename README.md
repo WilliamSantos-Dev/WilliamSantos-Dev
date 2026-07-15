@@ -1,3 +1,3 @@
 ## William Santos
 
-![William GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamSantos-Dev&show_icons=true&theme=radical&cache_seconds=86400)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WilliamSantos-Dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
